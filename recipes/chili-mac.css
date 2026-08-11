@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    margin: 0px 240px;  
+    color:darkorchid;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px 125px;
+    border: 5px double coral;
+}
+
+h3 {
+    text-align: center;
+    margin: 0px 240px;
+    color: firebrick;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    margin: 0px 260px;
+    list-style: none;
+}
+
+a {
+    margin: 10px 340px;
+}
