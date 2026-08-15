@@ -1,0 +1,40 @@
+*{
+    margin: auto;
+    background-color: darkkhaki;
+}
+
+h1{
+    text-align: center;
+    color: indigo;
+    border: 2px double green;
+    margin: 10px 150px;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+h3{
+    text-align: center;
+    color: indigo;
+}
+
+p {
+    text-align: center;
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+    display: block;
+    margin: 10px 175px;
+}
+
+h4 {
+    text-align: center;
+}
+
+ol {
+    margin: 10px;
+    text-align: left;
+}
